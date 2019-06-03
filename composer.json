@@ -1,0 +1,32 @@
+{
+  "name": "cronox/yii-cookie-notice-widget",
+  "description": "Simple widget to display cookie notice.",
+  "keywords": [
+    "yii2",
+    "cookie",
+    "gdpr",
+    "widget"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michał Jagodziński",
+      "email": "cronox.base@gmail.com",
+      "homepage": "http://cronox.info",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Cronox\\Yii\\CookieWidget\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {}
+  }
+}
+

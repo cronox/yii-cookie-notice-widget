@@ -1,0 +1,20 @@
+.cookie-notice {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    z-index: 1000000;
+    left: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    border-top: 2px solid #e1e7ec;
+}
+
+.cookie-notice .cookie-notice--img{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    max-height: 90px;
+}
+
+.cookie-notice .cookie-notice--close{
+    cursor: pointer;
+}

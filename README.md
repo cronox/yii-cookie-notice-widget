@@ -1,2 +1,9 @@
-# yii-cookie-notice-widget
-Simple widget to display cookie notice.
+# Yii2 Cookie Notice Widget
+
+# Installation
+
+## Composer
+```sh
+composer require cronox/yii-cookie-notice-widget
+```
+
